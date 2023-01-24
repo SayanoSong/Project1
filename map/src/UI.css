@@ -1,0 +1,21 @@
+.inputPlace{
+    text-align: left;
+    margin-left: 20%;
+    width: 20%;
+}
+
+.form1, .form2, .form3{
+    margin-top: 2%;
+}
+
+.form-control{
+    align-items: center;
+    width: 20%;
+    position:relative;
+}
+
+.btn{
+    margin-left: 90%;
+    margin-top: 10%;
+    width: 10%;
+}

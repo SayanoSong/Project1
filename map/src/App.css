@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-image: url('./images/main_bg.png');
+}
+
+.App-header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  font-size: calc(10px + 2vmin);
+  color: whitesmoke;
+}
+
+.title{
+  align-items: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
